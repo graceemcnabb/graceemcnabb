@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Grace 👋
 
 <!--
 **graceemcnabb/graceemcnabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=graceemcnabb)](https://github.com/graceemcnabb/github-readme-stats)
